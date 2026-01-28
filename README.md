@@ -26,9 +26,9 @@ Helping businesses grow revenue and efficiency using AI, Machine Learning, and D
 ## 💻 Featured Projects
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| **AI Chatbot** | NLP chatbot using GPT-3 and Python | ![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github) |
-| **Sales Forecasting Model** | ML model predicting sales trends using Python & scikit-learn | ![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github) |
-| **Web Scraper & Dashboard** | Collects and visualizes business data automatically | ![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github) |
+| **AI Chatbot** | NLP chatbot using GPT-3 and Python | [GitHub Repo](https://github.com/muhammadumair818) |
+| **Sales Forecasting Model** | ML model predicting sales trends using Python & scikit-learn | [GitHub Repo](https://github.com/muhammadumair818) |
+| **Web Scraper & Dashboard** | Collects and visualizes business data automatically | [GitHub Repo](https://github.com/muhammadumair818) |
 
 *(More projects coming soon!)*
 
@@ -42,14 +42,15 @@ Helping businesses grow revenue and efficiency using AI, Machine Learning, and D
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ai/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadumair818)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umairahmad8)
 
 ---
 
 ## 📊 GitHub Stats
-![Muhammad Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Muhammad Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumair818&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumair818&layout=compact&theme=radical)
 
 ---
 
