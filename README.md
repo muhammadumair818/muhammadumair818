@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Umair 👋
 **AI & Machine Learning Engineer | Data Scientist**  
 
-Helping businesses grow revenue and efficiency using AI, Machine Learning, and Data Analytics. I build practical, ROI-driven solutions that turn data into actionable insights.
+Helping businesses grow revenue and efficiency using AI, Machine Learning , and Data Analytics. I build practical, ROI-driven solutions that turn data into actionable insights.
 
 ---
 
