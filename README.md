@@ -55,3 +55,4 @@ Helping businesses grow revenue and efficiency using AI, Machine Learning, and D
 ---
 
 > “AI is not just a tool; it’s a way to transform business operations, make smarter decisions, and scale impact.”
+University of Swabi
