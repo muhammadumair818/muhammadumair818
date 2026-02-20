@@ -40,15 +40,6 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 
 ---
 
-## 💻 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🤖 **AI Chatbot** | NLP chatbot using GPT + Python | [View](https://github.com/muhammadumair818) |
-| 📈 **Sales Forecasting** | ML model predicting business sales | [View](https://github.com/muhammadumair818) |
-| 🌐 **Web Scraper** | Automated data extraction & dashboards | [View](https://github.com/muhammadumair818) |
-
----
 
 ## 📊 GitHub Analytics
 
