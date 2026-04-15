@@ -14,7 +14,7 @@
 
 ### 🚀 Transforming Data into Actionable Business Intelligence
 Helping businesses grow revenue and efficiency using **AI, Machine Learning, and Data Analytics**.  
-I build practical, **ROI-driven systems** that turn raw data into real-world impact.
+I build practical, **ROI-driven systems** that turn raw data into real-world impact..
 
 ---
 
