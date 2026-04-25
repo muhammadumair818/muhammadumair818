@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Muhammad Umair
 
-### 🚀 AI Engineer | Data Scientist | ML & NLP Specialist
+### 🚀 AI Engineer | Data Scientist | ML Specialist
 
 I design and build **AI-powered systems** that transform raw data into **actionable insights and business value**.  
 My focus is on developing **scalable, ROI-driven solutions** using Machine Learning, NLP, and modern backend technologies.
