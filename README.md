@@ -5,23 +5,25 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+%7C+NLP+Specialist;Building+ROI-Driven+AI+Solutions;Transforming+Data+into+Business+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+%7C+NLP+Specialist;Building+ROI-Driven+AI+Systems;Transforming+Data+into+Business+Intelligence" />
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Umair
+# 👋 Hi, I'm Muhammad Umair
 
-### 🚀 Transforming Data into Actionable Business Intelligence
-Helping businesses grow revenue and efficiency using **AI, Machine Learning, and Data Analytics**.  
-I build practical, **ROI-driven systems** that turn raw data into real-world impact..
+### 🚀 AI Engineer | Data Scientist | ML & NLP Specialist
+
+I design and build **AI-powered systems** that transform raw data into **actionable insights and business value**.  
+My focus is on developing **scalable, ROI-driven solutions** using Machine Learning, NLP, and modern backend technologies.
 
 ---
 
 ## 🔭 Current Focus
-- 🤖 **ML & NLP:** Designing predictive & intelligent systems  
-- ⚡ **Backend & DevOps:** Scaling APIs using **FastAPI + Docker**  
-- 🎓 **Education:** Student at **University of Swabi**
+
+- 🤖 **Machine Learning & NLP:** Predictive modeling and intelligent systems  
+- ⚡ **Backend & Deployment:** Building scalable APIs with **FastAPI & Docker**  
+- 🎓 **Education:** BS Artificial Intelligence — *University of Swabi*  
 
 ---
 
@@ -31,15 +33,15 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,linux,vscode&theme=dark" />
 <br>
+
 <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -54,7 +56,7 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumair818&theme=tokyo-night&hide_border=true"/>
@@ -62,9 +64,7 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 
 ---
 
-
-
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -73,9 +73,10 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 ---
 
 ## 🌱 Learning & Growth
-- 🧠 Exploring **Reinforcement Learning** & **Generative AI**
-- 🤝 Contributing to **Open Source**
-- ✍️ Writing tutorials for aspiring AI engineers
+
+- 🧠 Exploring **Reinforcement Learning** and **Generative AI**
+- 🤝 Contributing to **Open Source Projects**
+- ✍️ Writing technical content for AI learners
 
 ---
 
@@ -84,8 +85,10 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-umair-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <a href="https://github.com/muhammadumair818">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 <a href="https://www.kaggle.com/umairahmad8">
 <img src="https://img.shields.io/badge/Kaggle-00C6FF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
@@ -97,5 +100,5 @@ I build practical, **ROI-driven systems** that turn raw data into real-world imp
 </p>
 
 <p align="center">
-<i>“AI is not just a tool; it’s a competitive advantage.”</i>
+<i>"AI is not just a tool — it's a competitive advantage."</i>
 </p>
