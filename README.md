@@ -43,7 +43,7 @@ My focus is on developing **scalable, ROI-driven solutions** using Machine Learn
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics --
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadumair818&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -70,7 +70,7 @@ My focus is on developing **scalable, ROI-driven solutions** using Machine Learn
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+--- ---
 
 ## 🌱 Learning & Growth
 
