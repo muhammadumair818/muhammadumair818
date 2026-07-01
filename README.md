@@ -17,8 +17,7 @@
 I design and build **AI-powered systems** that transform raw data into **actionable insights and business value**.  
 My focus is on developing **scalable, ROI-driven solutions** using Machine Learning, NLP, and modern backend technologies.
 
---- ----
-
+--- 
 ## 🔭 Current Focus
 
 - 🤖 **Machine Learning & NLP:** Predictive modeling and intelligent systems  
